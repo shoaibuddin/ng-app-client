@@ -1,0 +1,16 @@
+{
+  "generator-ng-fullstack": {
+    "appName": "ng-fullstack-app",
+    "username": "shoaibuddin",
+    "userEmail": "shoaibuddin1@gmail.com",
+    "stack": "client",
+    "repoHostUrl": "github.com",
+    "userNameSpace": "shoaibuddin",
+    "client": "ng1",
+    "stylePreprocessor": "sass",
+    "server": "",
+    "secure": true,
+    "testsSeparated": false,
+    "cordova": false
+  }
+}
